@@ -1,0 +1,58 @@
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px){
+    img.logo-img {
+        height: 30px;
+        margin-left: 0px;
+}
+button._btn{
+    margin-right: opx;
+    padding: 8px 30px;
+    border-radius: 17px;
+    background: #ffffff;
+    border: 2px solid #fff;
+    font-weight: 800px;
+    box-shadow: 0px 1px 3px 2px #00252e12;
+}
+img.mock-img{
+    position: relative;
+    top: 67%;
+    width: 87%;
+    float: right;
+    padding-right: 116px;
+}
+h3._header{
+    font-size: 34px;
+    font-family: "poppins";
+    margin-top: 81px;
+    margin-left: 91;
+    white-space: nowrap;
+}
+button.p_btn{
+    padding: 12px 27px;
+    border-radius: 20px;
+    margin-left: 123px;
+    margin-top: -2px;
+    background: hsl(322, 100%, 66%);
+    border: 2px solid hsl(322, 100%, 66%);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+img.mock-img{
+    width: 239%;
+    float: right;
+    padding-right: 132px;
+    margin-top: 399px;
+}
+
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px){
+    
+}
